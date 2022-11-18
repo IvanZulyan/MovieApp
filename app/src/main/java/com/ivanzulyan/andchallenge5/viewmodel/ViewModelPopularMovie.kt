@@ -2,10 +2,10 @@ package com.ivanzulyan.andchallenge5.viewmodel
 
 import android.util.Log
 import androidx.lifecycle.ViewModel
-import com.farhanryanda.challangechapter5.model.SerialResponse
-import com.farhanryanda.challangechapter5.model.SerialResponseItem
 import com.ivanzulyan.andchallenge5.model.ResponsePopularMovie
 import com.ivanzulyan.andchallenge5.model.ResponsePopularMovieItem
+import com.ivanzulyan.andchallenge5.model.SerialResponse
+import com.ivanzulyan.andchallenge5.model.SerialResponseItem
 import com.ivanzulyan.andchallenge5.network.ApiClient
 import retrofit2.Call
 import retrofit2.Callback

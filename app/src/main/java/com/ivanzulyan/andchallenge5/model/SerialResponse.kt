@@ -1,4 +1,4 @@
-package com.farhanryanda.challangechapter5.model
+package com.ivanzulyan.andchallenge5.model
 
 
 import android.os.Parcelable

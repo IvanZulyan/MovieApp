@@ -7,7 +7,9 @@ import android.widget.Toast
 import androidx.lifecycle.ViewModelProvider
 import com.ivanzulyan.andchallenge5.databinding.ActivityRegisterBinding
 import com.ivanzulyan.andchallenge5.viewmodel.ViewModelUser
+import dagger.hilt.android.AndroidEntryPoint
 
+@AndroidEntryPoint
 class RegisterActivity : AppCompatActivity() {
     private lateinit var binding : ActivityRegisterBinding
 
@@ -38,7 +40,6 @@ class RegisterActivity : AppCompatActivity() {
 
             }
         }
-
     }
 
     private fun addUser(name: String,

@@ -6,9 +6,9 @@ import android.view.ViewGroup
 import androidx.navigation.findNavController
 import androidx.recyclerview.widget.RecyclerView
 import com.bumptech.glide.Glide
-import com.farhanryanda.challangechapter5.model.SerialResponseItem
 import com.ivanzulyan.andchallenge5.R
 import com.ivanzulyan.andchallenge5.databinding.ItemMovieBinding
+import com.ivanzulyan.andchallenge5.model.SerialResponseItem
 
 class SerialAdapter (var listSerial: List<SerialResponseItem>): RecyclerView.Adapter<SerialAdapter.ViewHolder>() {
     class ViewHolder(var binding: ItemMovieBinding): RecyclerView.ViewHolder(binding.root) {

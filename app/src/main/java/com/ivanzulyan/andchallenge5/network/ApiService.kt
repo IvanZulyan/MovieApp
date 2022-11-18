@@ -1,8 +1,8 @@
 package com.ivanzulyan.andchallenge5.network
 
 
-import com.farhanryanda.challangechapter5.model.SerialResponse
 import com.ivanzulyan.andchallenge5.model.ResponsePopularMovie
+import com.ivanzulyan.andchallenge5.model.SerialResponse
 import retrofit2.Call
 import retrofit2.http.GET
 import retrofit2.http.Headers
