@@ -10,9 +10,8 @@ import android.view.ViewGroup
 import androidx.lifecycle.ViewModelProvider
 import androidx.recyclerview.widget.LinearLayoutManager
 import com.farhanryanda.challangechapter5.model.SerialResponseItem
-import com.ivanzulyan.andchallenge5.R
-import com.ivanzulyan.andchallenge5.adapter.MovieAdapter
-import com.ivanzulyan.andchallenge5.adapter.SerialAdapter
+import com.ivanzulyan.andchallenge5.view.adapter.MovieAdapter
+import com.ivanzulyan.andchallenge5.view.adapter.SerialAdapter
 import com.ivanzulyan.andchallenge5.databinding.FragmentHomeBinding
 import com.ivanzulyan.andchallenge5.model.ResponsePopularMovieItem
 import com.ivanzulyan.andchallenge5.viewmodel.ViewModelPopularMovie

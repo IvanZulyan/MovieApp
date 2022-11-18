@@ -1,4 +1,4 @@
-package com.ivanzulyan.andchallenge5
+package com.ivanzulyan.andchallenge5.view.activity
 
 import android.content.Context
 import android.content.Intent

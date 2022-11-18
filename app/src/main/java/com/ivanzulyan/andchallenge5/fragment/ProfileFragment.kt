@@ -12,7 +12,7 @@ import android.view.ViewGroup
 import android.widget.Toast
 import androidx.lifecycle.ViewModelProvider
 import androidx.navigation.fragment.findNavController
-import com.ivanzulyan.andchallenge5.LoginActivity
+import com.ivanzulyan.andchallenge5.view.activity.LoginActivity
 import com.ivanzulyan.andchallenge5.R
 import com.ivanzulyan.andchallenge5.databinding.FragmentProfileBinding
 import com.ivanzulyan.andchallenge5.viewmodel.ViewModelUser

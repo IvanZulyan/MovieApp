@@ -1,4 +1,4 @@
-package com.ivanzulyan.andchallenge5
+package com.ivanzulyan.andchallenge5.view.activity
 
 import android.content.Context
 import android.content.Intent
@@ -6,6 +6,7 @@ import android.content.SharedPreferences
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.os.Handler
+import com.ivanzulyan.andchallenge5.R
 
 class SplashActivity : AppCompatActivity() {
     private lateinit var sharedPreferences: SharedPreferences
